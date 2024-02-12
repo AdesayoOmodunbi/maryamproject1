@@ -1,0 +1,3 @@
+﻿lets learn spark
+spark is fun
+we are practicing programs
